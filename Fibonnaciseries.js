@@ -8,5 +8,5 @@ for(let i=0;i<n;i++){
     b=next;
 }
 }   
-let number=10;
+let number=4;
 fibonnaci(number)
