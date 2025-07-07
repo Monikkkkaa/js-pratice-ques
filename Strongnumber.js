@@ -7,7 +7,7 @@ function Factorail(n) {
     
 }
 function isStong (num) {
-    let orignialnum=num;
+    let orignialnum = num;
     let sum= 0;
 
     while (num > 0 ) {
